@@ -1,0 +1,2 @@
+rootProject.name='CoverageTest'
+include ':app'
